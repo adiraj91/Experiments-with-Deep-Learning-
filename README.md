@@ -1,7 +1,6 @@
 # Experiments-with-Deep-Learning
 
-The set of projects contain the implementations of deep learning projects.
-THe scripts start from  from Single Layer Perceptrons ( Basic Logistic Model) and gradual implementation of the CNN and further. 
+The set of projects contain the implementations of deep learning projects. The scripts start from  from Single Layer Perceptrons ( Basic Logistic Regression Model) and gradual implementation of the CNN and further. 
 
 ## Set of Libraries 
 
