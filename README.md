@@ -16,4 +16,6 @@ The implementation is done using basic Gradient Descent logic and concepts of Ve
 
 ## Data
 
+The dataset used for analysis can be found on Kaggle at the following link:
+
 [Dogs vs Cats Classification - Kaggle](https://www.kaggle.com/c/dogs-vs-cats) 
