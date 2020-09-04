@@ -19,3 +19,6 @@ The implementation is done using basic Gradient Descent logic and concepts of Ve
 The dataset used for analysis can be found on Kaggle at the following link:
 
 [Dogs vs Cats Classification - Kaggle](https://www.kaggle.com/c/dogs-vs-cats) 
+
+Coursework for building Models:
+[Neural Networks and Deep Learning-Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
